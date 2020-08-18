@@ -1,10 +1,10 @@
-import React from "react";
-import { StyleSheet, View, Text } from "react-native";
+import React from 'react';
+import { View, StyleSheet, Text } from 'react-native';
 
-const TrackDetaulScreen = () => {
-  return <Text>TrackDetaulScreen Screen</Text>;
+const TrackDetailScreen = () => {
+  return <Text style={{ fontSize: 48 }}>TrackDetailScreen</Text>;
 };
 
 const styles = StyleSheet.create({});
 
-export default TrackDetaulScreen;
+export default TrackDetailScreen;

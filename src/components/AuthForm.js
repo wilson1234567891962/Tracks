@@ -41,7 +41,6 @@ const AuthForm = ({ headerText, errorMessage, onSubmit, submitButtonText }) => {
   );
 };
 
-
 const styles = StyleSheet.create({
   errorMessage: {
     fontSize: 16,
